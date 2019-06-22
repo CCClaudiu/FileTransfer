@@ -1,0 +1,7 @@
+Argumentele pentru lansarea agentilor:
+-agents receiver:mainPackage.ReceiverAgent;sender:mainPackage.SenderAgent
+
+
+Argumentele pentru localizarea fisierului ce contin setarile sistemului de log-uri(fisier ce se gaseste in interiorul proiectului)
+Aceste argumente se trec in casuta VM Arguments:
+-Djava.util.logging.config.file=src/main/resources/logging.properties

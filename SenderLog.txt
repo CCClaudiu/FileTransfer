@@ -1,0 +1,32 @@
+Ian 28, 2019 2:54:48 AM mainPackage.ReceiverAgent writeLog
+INFO: Agentul de tip destinatar:receiver@192.168.100.4:1099/JADE a fost lansat cu succes
+Ian 28, 2019 2:54:48 AM mainPackage.SenderAgent writeLog
+INFO: Agentul de tip emitator:sender@192.168.100.4:1099/JADE a fost lansat cu succes
+Ian 28, 2019 3:05:28 AM mainPackage.ReceiverAgent writeLog
+INFO: Agentul de tip destinatar:receiver@192.168.100.4:1099/JADE a fost lansat cu succes
+Ian 28, 2019 3:05:28 AM mainPackage.SenderAgent writeLog
+INFO: Agentul de tip emitator:sender@192.168.100.4:1099/JADE a fost lansat cu succes
+Ian 28, 2019 3:05:51 AM mainPackage.SenderAgent writeLog
+INFO: Agentul sender@192.168.100.4:1099/JADEa trimis fisierul:Mount&Blade Warband.lnk catre agentul receiver@192.168.100.4:1099/JADE
+Ian 28, 2019 3:07:10 AM mainPackage.ReceiverAgent writeLog
+INFO: Agentul de tip destinatar:receiver@192.168.100.4:1099/JADE a fost lansat cu succes
+Ian 28, 2019 3:07:10 AM mainPackage.SenderAgent writeLog
+INFO: Agentul de tip emitator:sender@192.168.100.4:1099/JADE a fost lansat cu succes
+Ian 28, 2019 3:07:21 AM mainPackage.SenderAgent writeLog
+INFO: Agentul de tip emitator:gfed@192.168.100.4:1099/JADE a fost lansat cu succes
+Ian 28, 2019 3:07:27 AM mainPackage.ReceiverAgent writeLog
+INFO: Agentul de tip destinatar:gfdgfd@192.168.100.4:1099/JADE a fost lansat cu succes
+Ian 28, 2019 3:08:39 AM mainPackage.SenderAgent writeLog
+INFO: Agentul de tip emitator:sender@192.168.100.4:1099/JADE a fost lansat cu succes
+Ian 28, 2019 3:09:23 AM mainPackage.SenderAgent writeLog
+INFO: Agentul sender@192.168.100.4:1099/JADEa trimis fisierul:MMColocviu.docx catre agentul receiver@192.168.100.4:1099/JADE
+Ian 29, 2019 9:07:15 AM mainPackage.SenderAgent writeLog
+INFO: Agentul de tip emitator:sender@localhost:1099/JADE a fost lansat cu succes
+Ian 29, 2019 9:09:00 AM mainPackage.SenderAgent writeLog
+INFO: Agentul de tip emitator:sender@localhost:1099/JADE a fost lansat cu succes
+Ian 29, 2019 9:09:20 AM mainPackage.SenderAgent writeLog
+INFO: Agentul sender@localhost:1099/JADEa trimis fisierul:WindowsFormsApplication2.sln catre agentul receiver@localhost:1099/JADE
+Ian 29, 2019 9:16:47 AM mainPackage.SenderAgent writeLog
+INFO: Agentul de tip emitator:sender@localhost:1099/JADE a fost lansat cu succes
+Ian 29, 2019 9:17:48 AM mainPackage.SenderAgent writeLog
+INFO: Agentul sender@localhost:1099/JADEa trimis fisierul:studenti.xml catre agentul receiver@localhost:1099/JADE

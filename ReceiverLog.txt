@@ -1,0 +1,14 @@
+Ian 28, 2019 3:08:39 AM mainPackage.ReceiverAgent writeLog
+INFO: Agentul de tip destinatar:receiver@192.168.100.4:1099/JADE a fost lansat cu succes
+Ian 28, 2019 3:09:23 AM mainPackage.ReceiverAgent writeLog
+INFO: Agentul receiver@192.168.100.4:1099/JADE a primit fisierul cu denumirea MMColocviu.docx de la agentul sender@192.168.100.4:1099/JADE
+Ian 29, 2019 9:07:15 AM mainPackage.ReceiverAgent writeLog
+INFO: Agentul de tip destinatar:receiver@localhost:1099/JADE a fost lansat cu succes
+Ian 29, 2019 9:09:00 AM mainPackage.ReceiverAgent writeLog
+INFO: Agentul de tip destinatar:receiver@localhost:1099/JADE a fost lansat cu succes
+Ian 29, 2019 9:09:20 AM mainPackage.ReceiverAgent writeLog
+INFO: Agentul receiver@localhost:1099/JADE a primit fisierul cu denumirea WindowsFormsApplication2.sln de la agentul sender@localhost:1099/JADE
+Ian 29, 2019 9:16:47 AM mainPackage.ReceiverAgent writeLog
+INFO: Agentul de tip destinatar:receiver@localhost:1099/JADE a fost lansat cu succes
+Ian 29, 2019 9:17:48 AM mainPackage.ReceiverAgent writeLog
+INFO: Agentul receiver@localhost:1099/JADE a primit fisierul cu denumirea studenti.xml de la agentul sender@localhost:1099/JADE
